@@ -1,2 +1,4 @@
 # Predicting-FEV1
-Lung Function Decline in Cystic Fibrosis: Impact of Data Availability and Modeling Strategies
+This repository includes supplemental html reports for Lung Function Decline in Cystic Fibrosis: Impact of Data Availability and Modeling Strategies article.
+
+To review each html files, you need to download the repository as a zip file to your personal computer.
