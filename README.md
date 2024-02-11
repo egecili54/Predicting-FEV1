@@ -7,4 +7,4 @@ To review each html report, you need to download the repository as a zip file to
 
 ![Coefficient estimates and their 95% confidence intervals for select TFs.](https://github.com/emrahgecili/Predicting-FEV1-in-Cystic-Fibrosis/blob/main/Report_1_WholeData_Model_Compare.html)
 
-htmltools::includeHTML("https://github.com/emrahgecili/Predicting-FEV1-in-Cystic-Fibrosis/blob/main/Report_1_WholeData_Model_Compare.html")
+includeHTML("https://github.com/emrahgecili/Predicting-FEV1-in-Cystic-Fibrosis/blob/main/Report_1_WholeData_Model_Compare.html")
