@@ -7,3 +7,11 @@ To review each html report, you need to download the repository as a zip file to
 
 ![Coefficient estimates and their 95% confidence intervals for select TFs.](https://github.com/emrahgecili/Predicting-FEV1-in-Cystic-Fibrosis/blob/main/Report_1_WholeData_Model_Compare.html)
 
+<!-- Lightweight client-side loader that feature-detects and load polyfills only when necessary -->
+<script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
+
+<!-- Load the element definition -->
+<script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
+
+<!-- Simply set the `src` attribute to your MD file and win -->
+<zero-md src="README.md"></zero-md>
