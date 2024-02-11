@@ -8,3 +8,14 @@ To review each html report, you need to download the repository as a zip file to
 ![Coefficient estimates and their 95% confidence intervals for select TFs.](https://github.com/emrahgecili/Predicting-FEV1-in-Cystic-Fibrosis/blob/main/Report_1_WholeData_Model_Compare.html)
 
 includeHTML("https://github.com/emrahgecili/Predicting-FEV1-in-Cystic-Fibrosis/blob/main/Report_1_WholeData_Model_Compare.html")
+
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul>
+            <li>text</li>
+        </ul>
+        <!-- Other embed HTML element/text into SVG -->
+    </div>
+</foreignObject>
+</svg>
