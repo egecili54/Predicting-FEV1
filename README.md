@@ -5,5 +5,5 @@ Szczesniak R, Andrinopoulou ER, Su W, Afonso PM, Burgel PR, Cromwell E, Gecili E
 
 To review each html report, you need to download the repository as a zip file to your personal computer (Click "Code" on the right top then "Download ZIP").
 
-![Coefficient estimates and their 95% confidence intervals for select TFs.](https://github.com/emrahgecili/Predicting-FEV1-in-Cystic-Fibrosis/blob/main/Report_1_WholeData_Model_Compare - Copy.jpg)
+![Analysis of Lung Function Decline: Whole Dataset Cohort](https://github.com/emrahgecili/Predicting-FEV1-in-Cystic-Fibrosis/blob/main/Report_1_WholeData_Model_Compare%20-%20Copy.jpg)
 
