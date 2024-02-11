@@ -19,3 +19,6 @@ includeHTML("https://github.com/emrahgecili/Predicting-FEV1-in-Cystic-Fibrosis/b
     </div>
 </foreignObject>
 </svg>
+
+
+![](./path/example.svg)
